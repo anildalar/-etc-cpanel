@@ -1,0 +1,4 @@
+--- 
+default: ea-php81
+ea-php81: cgi
+ea-php82: cgi
