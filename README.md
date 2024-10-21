@@ -1,0 +1,2 @@
+# -etc-cpanel
+/etc/cpanel
